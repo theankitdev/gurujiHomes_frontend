@@ -59,22 +59,13 @@ frontend/
 ⚙️ Getting Started
 
 1️⃣ Clone Repository
-git clone https://github.com/your-username/gurujiHomes.git
+git clone https://github.com/theankitdev/gurujiHomes_frontend.git
 cd gurujiHomes/frontend
 
 2️⃣ Install Dependencies
 npm install
 
-3️⃣ Setup Environment Variables
-Create a .env file in the root folder:
-
-For local development:
-VITE_API_URL=http://localhost:5000/api/v1
-
-For production:
-VITE_API_URL=https://guruji-homes-backend.vercel.app/api/v1
-
-4️⃣ Run Development Server
+3 Run Development Server
 npm run dev
 
 👨‍💻 Author
